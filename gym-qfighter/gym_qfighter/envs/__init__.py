@@ -1,0 +1,2 @@
+from gym_qfighter.envs.qfighter_env import QFighterEnv
+#from gym_qfighter.envs.qfighter_extrahard_env import QFighterExtraHardEnv

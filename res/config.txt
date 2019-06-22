@@ -1,0 +1,7 @@
+time=1
+rounds=2
+video=2
+sound=4
+music=2
+keysP1=9/120/97/100/49/50/51/
+keysP2=105/44/106/108/55/56/57/

@@ -1,0 +1,6 @@
+README.md
+gym_qfighter.egg-info/PKG-INFO
+gym_qfighter.egg-info/SOURCES.txt
+gym_qfighter.egg-info/dependency_links.txt
+gym_qfighter.egg-info/requires.txt
+gym_qfighter.egg-info/top_level.txt
